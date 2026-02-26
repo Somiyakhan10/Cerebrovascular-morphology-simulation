@@ -32,12 +32,6 @@ Relevant to studies on:
   - Normal: ~1.004  
   - Post-Stroke: ~1.128  
 
-![Vessel Radius and Area Profiles](vessel_radius_and_area_profiles.png)  
-*Radius profile (top) and cross-sectional area along the vessel (bottom)*
-
-![Morphological Changes Bar Plot](metrics_bar.png)  
-*Comparison of area reduction and tortuosity between normal and post-stroke conditions*
-
 ## Requirements
 - Python 3.x  
 - NumPy  
@@ -45,8 +39,3 @@ Relevant to studies on:
 
 No external datasets or additional libraries needed — fully synthetic.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/stroke-vessel-morphology-simulation.git
-   cd stroke-vessel-morphology-simulation
